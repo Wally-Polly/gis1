@@ -28,7 +28,7 @@
       </div>
       <div class="legend-item">
         <span class="legend-line" style="background-color: rgba(52, 215, 215, 1)"></span>
-        <span class="legend-label">Маршрут</span>
+        <span class="legend-label">Маршрут Шень Коjj</span>
       </div>
     </div>
   </div>
